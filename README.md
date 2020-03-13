@@ -11,6 +11,13 @@ Requirements
 * Python 3.6.5
 * Numpy 1.16.4
 
+## Training and Testing Datasets
+Training dataset
+* [Download Link](https://pan.baidu.com/s/1cm5nkdKVHU2vCIqgzlmLMw). Code: eu72
+
+Testing dataset
+* [Download Link](https://pan.baidu.com/s/1cm5nkdKVHU2vCIqgzlmLMw). Code: eu72
+
 ## Depth Stream
 Training
 * Modify your path of training dataset in train_depth
