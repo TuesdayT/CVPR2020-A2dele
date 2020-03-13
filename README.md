@@ -15,6 +15,7 @@ Requirements
 Training
 * Modify your path of training dataset in train_depth
 * Run train_depth
+
 Testing
 * Download pretrained depth model from [here](https://pan.baidu.com/s/1cm5nkdKVHU2vCIqgzlmLMw). Code: eu72
 * Modify your path of testing dataset in test_depth
@@ -26,6 +27,7 @@ Training
 * Modify your path of training dataset in train_RGB
 * Modify the pretrained depth model path
 * Run train_RGB
+
 Testing
 * Download pretrained RGB model from [here](https://pan.baidu.com/s/1cm5nkdKVHU2vCIqgzlmLMw). Code: eu72
 * Modify your path of testing dataset in test_depth
