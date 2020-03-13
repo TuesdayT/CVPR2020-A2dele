@@ -13,10 +13,10 @@ Requirements
 
 ## Training and Testing Datasets
 Training dataset
-* [Download Link](https://pan.baidu.com/s/1cm5nkdKVHU2vCIqgzlmLMw). Code: eu72
+* [Download Link](https://pan.baidu.com/s/14cGEwcCRulWDOuKNIjuGCg). Code: 0fj8
 
 Testing dataset
-* [Download Link](https://pan.baidu.com/s/1cm5nkdKVHU2vCIqgzlmLMw). Code: eu72
+* [Download Link](https://pan.baidu.com/s/1Yp5YtVIBB3-9PMFruYhxSw). Code: f7vk
 
 ## Depth Stream
 Training
@@ -24,10 +24,10 @@ Training
 * Run train_depth
 
 Testing
-* Download pretrained depth model from [here](https://pan.baidu.com/s/1cm5nkdKVHU2vCIqgzlmLMw). Code: eu72
+* Download pretrained depth model from [here](https://pan.baidu.com/s/1zM25yQ_Q-LgE4yOK-JJaTQ). Code: uklr
 * Modify your path of testing dataset in test_depth
 * Run test_depth to inference saliency maps
-* Saliency maps generated from the depth stream can be downnloaded from [here](https://pan.baidu.com/s/1cm5nkdKVHU2vCIqgzlmLMw). Code: eu72
+* Saliency maps generated from the depth stream can be downnloaded from [here](https://pan.baidu.com/s/121a4Pn7SkOijlXGHqUjApA). Code: 2e3l
 
 ## RGB Stream
 Training
@@ -36,10 +36,10 @@ Training
 * Run train_RGB
 
 Testing
-* Download pretrained RGB model from [here](https://pan.baidu.com/s/1cm5nkdKVHU2vCIqgzlmLMw). Code: eu72
+* Download pretrained RGB model from [here](https://pan.baidu.com/s/1BNZKsmryBpSbCczYDPM-rA). Code: tj7b
 * Modify your path of testing dataset in test_depth
 * Run test_RGB to inference saliency maps
-* Saliency maps generated from the RGB stream can be downnloaded from [here](https://pan.baidu.com/s/1cm5nkdKVHU2vCIqgzlmLMw). Code: eu72
+* Saliency maps generated from the RGB stream can be downnloaded from [here](https://pan.baidu.com/s/1egZM__Xs9BmnxxaVyiB4ug). Code: tb3y
 
 ## Contact and Questions
 Contact: Zhengkun Rong. Email: 18642840242@163.com or rzk911113@mail.dlut.edu.cn
